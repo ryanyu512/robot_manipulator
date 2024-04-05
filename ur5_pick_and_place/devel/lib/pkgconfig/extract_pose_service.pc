@@ -1,8 +1,0 @@
-prefix=/home/ryan/github_repository/robot_manipulator/ur5_pick_and_place/devel
-
-Name: extract_pose_service
-Description: Description of extract_pose_service
-Version: 0.0.0
-Cflags: -I/home/ryan/github_repository/robot_manipulator/ur5_pick_and_place/devel/include
-Libs: -L${prefix}/lib 
-Requires: roscpp sensor_msgs std_msgs cv_bridge image_transport tf2_ros message_runtime

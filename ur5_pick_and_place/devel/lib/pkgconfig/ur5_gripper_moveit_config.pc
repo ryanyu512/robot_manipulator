@@ -1,8 +1,0 @@
-prefix=/home/ryan/github_repository/robot_manipulator/ur5_pick_and_place/devel
-
-Name: ur5_gripper_moveit_config
-Description: Description of ur5_gripper_moveit_config
-Version: 0.3.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
