@@ -15,9 +15,9 @@ Environment:
 3. OpenCV >= 4.
 
 Running:
-1.roslaunch ur5_gripper_moveit_config demo_gazebo.launch
-2.rosrun extract_pose_service extract_object_pose 
-3.rosrun ur5_pick_and_place ur5_pick_and_place
+1. roslaunch ur5_gripper_moveit_config demo_gazebo.launch
+2. osrun extract_pose_service extract_object_pose
+3. rosrun ur5_pick_and_place ur5_pick_and_place
 
 Package:
 1. common-sensors: contain urdf.xacro of various common visual sensors
