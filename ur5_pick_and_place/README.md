@@ -16,7 +16,7 @@ Environment:
 
 Running:
 1. roslaunch ur5_gripper_moveit_config demo_gazebo.launch
-2. osrun extract_pose_service extract_object_pose
+2. rosrun extract_pose_service extract_object_pose
 3. rosrun ur5_pick_and_place ur5_pick_and_place
 
 Package:
